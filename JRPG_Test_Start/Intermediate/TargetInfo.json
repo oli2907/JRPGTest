@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JRPG_Test_Start",
+			"Path": "F:\\Coding stuff\\Unreal\\GitStuff\\JRPGTest\\JRPG_Test_Start\\Source\\JRPG_Test_Start.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JRPG_Test_StartEditor",
+			"Path": "F:\\Coding stuff\\Unreal\\GitStuff\\JRPGTest\\JRPG_Test_Start\\Source\\JRPG_Test_StartEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JRPG_Test_Start.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Coding stuff\Unreal\GitStuff\JRPGTest\JRPG_Test_Start\Intermediate\Build\Win64\JRPG_Test_StartEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Coding stuff\Unreal\GitStuff\JRPGTest\JRPG_Test_Start\Intermediate\Build\Win64\UE4Editor\Development\JRPG_Test_Start\JRPG_Test_Start.cpp.obj"
+"F:\Coding stuff\Unreal\GitStuff\JRPGTest\JRPG_Test_Start\Intermediate\Build\Win64\UE4Editor\Development\JRPG_Test_Start\JRPG_Test_StartGameModeBase.cpp.obj"
+"F:\Coding stuff\Unreal\GitStuff\JRPGTest\JRPG_Test_Start\Intermediate\Build\Win64\UE4Editor\Development\JRPG_Test_Start\JRPG_Test_Start.init.gen.cpp.obj"
+"F:\Coding stuff\Unreal\GitStuff\JRPGTest\JRPG_Test_Start\Intermediate\Build\Win64\UE4Editor\Development\JRPG_Test_Start\JRPG_Test_StartGameModeBase.gen.cpp.obj"
+"F:\Coding stuff\Unreal\GitStuff\JRPGTest\JRPG_Test_Start\Intermediate\Build\Win64\UE4Editor\Development\JRPG_Test_Start\Default.rc2.res"
+/OUT:"F:\Coding stuff\Unreal\GitStuff\JRPGTest\JRPG_Test_Start\Intermediate\Build\Win64\UE4Editor\Development\JRPG_Test_Start\UE4Editor-JRPG_Test_Start.lib"
+/INCLUDE:IMPLEMENT_MODULE_JRPG_Test_Start

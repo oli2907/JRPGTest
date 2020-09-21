@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JRPG_Test_Start.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{ECB82131-9485-4647-9F2C-4132B10C2E62}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JRPG_Test_Start.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JRPG_Test_StartEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5BB7CCBF-35CF-4F9A-AF64-FB47598295FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JRPG_Test_Start">
+      <UniqueIdentifier>{5E04C624-C7AE-49E0-8CC3-95FEE81AFEB1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JRPG_Test_Start\JRPG_Test_Start.Build.cs">
+      <Filter>Source\JRPG_Test_Start</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JRPG_Test_Start\JRPG_Test_Start.cpp">
+      <Filter>Source\JRPG_Test_Start</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JRPG_Test_Start\JRPG_Test_Start.h">
+      <Filter>Source\JRPG_Test_Start</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JRPG_Test_Start\JRPG_Test_StartGameModeBase.cpp">
+      <Filter>Source\JRPG_Test_Start</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JRPG_Test_Start\JRPG_Test_StartGameModeBase.h">
+      <Filter>Source\JRPG_Test_Start</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
