@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JustATest-0016.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\JustATestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\BattleHud.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\BattleParent.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\JustATest.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\JustATestCharacter.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\JustATestGameMode.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\JustATestPlayerController.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\WorldCharacter.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\WorldMode.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\BattleHud.gen.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\BattleParent.gen.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\JustATest.init.gen.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\JustATestCharacter.gen.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\JustATestGameMode.gen.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\JustATestPlayerController.gen.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\WorldCharacter.gen.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\WorldMode.gen.cpp.obj"
+"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\Default.rc2.res"
+/OUT:"C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\UE4Editor-JustATest-0016.lib"
+/INCLUDE:IMPLEMENT_MODULE_JustATest

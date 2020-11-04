@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JustATest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{83A06EA9-7FE0-4F92-B462-3162C1260054}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JustATest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JustATestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{87A7E05D-6386-4BA7-8A79-11D96E25F8F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JustATest">
+      <UniqueIdentifier>{E8B23AD5-D0E6-4FCD-A1C5-954E82D66F78}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JustATest\BattleHud.cpp">
+      <Filter>Source\JustATest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JustATest\BattleHud.h">
+      <Filter>Source\JustATest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JustATest\BattleParent.cpp">
+      <Filter>Source\JustATest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JustATest\BattleParent.h">
+      <Filter>Source\JustATest</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\JustATest\JustATest.Build.cs">
+      <Filter>Source\JustATest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JustATest\JustATest.cpp">
+      <Filter>Source\JustATest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JustATest\JustATest.h">
+      <Filter>Source\JustATest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JustATest\JustATestCharacter.cpp">
+      <Filter>Source\JustATest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JustATest\JustATestCharacter.h">
+      <Filter>Source\JustATest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JustATest\JustATestGameMode.cpp">
+      <Filter>Source\JustATest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JustATest\JustATestGameMode.h">
+      <Filter>Source\JustATest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JustATest\WorldCharacter.cpp">
+      <Filter>Source\JustATest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JustATest\WorldCharacter.h">
+      <Filter>Source\JustATest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JustATest\WorldMode.cpp">
+      <Filter>Source\JustATest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JustATest\WorldMode.h">
+      <Filter>Source\JustATest</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\JustATest\BattleParentController.h">
+      <Filter>Source\JustATest</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\JustATest\BattleParentController.cpp">
+      <Filter>Source\JustATest</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

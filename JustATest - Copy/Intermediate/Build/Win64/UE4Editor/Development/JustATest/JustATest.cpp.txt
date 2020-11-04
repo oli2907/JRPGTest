@@ -1,0 +1,2 @@
+C:\Users\U1669330\Documents\Unreal Projects\JustATest - Copy\Intermediate\Build\Win64\UE4Editor\Development\JustATest\Definitions.JustATest.h
+c:\users\u1669330\documents\unreal projects\justatest - copy\source\justatest\JustATest.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JustATest",
+			"Path": "C:\\Users\\U1669330\\Documents\\Unreal Projects\\JustATest - Copy\\Source\\JustATest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JustATestEditor",
+			"Path": "C:\\Users\\U1669330\\Documents\\Unreal Projects\\JustATest - Copy\\Source\\JustATestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
